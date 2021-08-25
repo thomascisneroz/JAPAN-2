@@ -1,0 +1,64 @@
+{
+    "Japan-sites": [
+        {
+            "id": 1,
+            "name": "Mount Fuji",
+            "image":"https://i.pinimg.com/564x/6f/c8/c5/6fc8c52266cf90fa2e48946d2a557eec.jpg",
+            "description": "Japan’s Mt. Fuji is an active volcano about 100 kilometers southwest of Tokyo. Commonly called “Fuji-san,” it’s the country’s tallest peak, at 3,776 meters. A pilgrimage site for centuries, it’s considered one of Japan’s 3 sacred mountains, and summit hikes remain a popular activity. Its iconic profile is the subject of numerous works of art, notably Edo Period prints by Hokusai and Hiroshige."
+        },
+        {
+            "id": 2,
+            "name" :"Itsukushima Shrine",
+            "image": "https://i.pinimg.com/564x/cb/4e/02/cb4e02271c58d90d8134ca86c9d8c8a9.jpg",
+            "description" : "Itsukushima Shrine is a Shinto shrine on the island of Itsukushima, best known for its floating torii gate. It is in the city of Hatsukaichi in Hiroshima Prefecture in Japan."
+        },
+        {
+            "id": 3,
+            "name": "Nara Park",
+            "image":"https://i.pinimg.com/564x/79/34/e0/7934e0161db959113b98e3e2e80b3bf7.jpg",
+            "description": "Nara Park is a public park located in the city of Nara, Japan, at the foot of Mount Wakakusa. Established in 1880 it is one of the oldest parks in Japan. Administratively, the park is under the control of Nara Prefecture"
+        },
+        {
+            "id": 4,
+            "name": "Kyoto Imperial Palace",
+            "image":"https://i.pinimg.com/564x/e8/39/e7/e839e7951f7d2512ff877ccff68f989f.jpg",
+            "description": "The Kyoto Imperial Palace is the former ruling palace of the Emperor of Japan. Since the Meiji Restoration in 1869, the Emperors have resided at the Tokyo Imperial Palace, while the preservation of the Kyoto Imperial Palace was ordered in 1877."
+        },
+        {
+            "id": 5,
+            "name": "",
+            "image":"",
+            "description": ""
+        },
+        {
+            "id": 6,
+            "name": "",
+            "image":"",
+            "description": ""
+        },
+        {
+            "id": 7,
+            "name": "",
+            "image":"",
+            "description": ""
+        },
+        {
+            "id": 8,
+            "name": "",
+            "image":"",
+            "description": ""
+        },
+        {
+            "id": 9,
+            "name": "",
+            "image":"",
+            "description": ""
+        },
+        {
+            "id": 10,
+            "name": "",
+            "image":"",
+            "description": ""
+        }
+    ]
+}
