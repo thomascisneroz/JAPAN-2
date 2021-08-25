@@ -4,9 +4,9 @@ import MainHub from '../MainHub'
 
 function Home() {
     return(
-        <>
+        <div>
         <MainHub />
-        </>
+        </div>
     )
 }
 
