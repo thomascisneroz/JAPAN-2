@@ -1,64 +1,156 @@
 {
-    "Japan-sites": [
-        {
-            "id": 1,
-            "name": "Mount Fuji",
-            "image":"https://i.pinimg.com/564x/6f/c8/c5/6fc8c52266cf90fa2e48946d2a557eec.jpg",
-            "description": "Japan’s Mt. Fuji is an active volcano about 100 kilometers southwest of Tokyo. Commonly called “Fuji-san,” it’s the country’s tallest peak, at 3,776 meters. A pilgrimage site for centuries, it’s considered one of Japan’s 3 sacred mountains, and summit hikes remain a popular activity. Its iconic profile is the subject of numerous works of art, notably Edo Period prints by Hokusai and Hiroshige."
-        },
-        {
-            "id": 2,
-            "name" :"Itsukushima Shrine",
-            "image": "https://i.pinimg.com/564x/cb/4e/02/cb4e02271c58d90d8134ca86c9d8c8a9.jpg",
-            "description" : "Itsukushima Shrine is a Shinto shrine on the island of Itsukushima, best known for its floating torii gate. It is in the city of Hatsukaichi in Hiroshima Prefecture in Japan."
-        },
-        {
-            "id": 3,
-            "name": "Nara Park",
-            "image":"https://i.pinimg.com/564x/79/34/e0/7934e0161db959113b98e3e2e80b3bf7.jpg",
-            "description": "Nara Park is a public park located in the city of Nara, Japan, at the foot of Mount Wakakusa. Established in 1880 it is one of the oldest parks in Japan. Administratively, the park is under the control of Nara Prefecture"
-        },
-        {
-            "id": 4,
-            "name": "Kyoto Imperial Palace",
-            "image":"https://i.pinimg.com/564x/e8/39/e7/e839e7951f7d2512ff877ccff68f989f.jpg",
-            "description": "The Kyoto Imperial Palace is the former ruling palace of the Emperor of Japan. Since the Meiji Restoration in 1869, the Emperors have resided at the Tokyo Imperial Palace, while the preservation of the Kyoto Imperial Palace was ordered in 1877."
-        },
-        {
-            "id": 5,
-            "name": "",
-            "image":"",
-            "description": ""
-        },
-        {
-            "id": 6,
-            "name": "",
-            "image":"",
-            "description": ""
-        },
-        {
-            "id": 7,
-            "name": "",
-            "image":"",
-            "description": ""
-        },
-        {
-            "id": 8,
-            "name": "",
-            "image":"",
-            "description": ""
-        },
-        {
-            "id": 9,
-            "name": "",
-            "image":"",
-            "description": ""
-        },
-        {
-            "id": 10,
-            "name": "",
-            "image":"",
-            "description": ""
-        }
-    ]
+  "Japan-sites": [
+    {
+      "id": 1,
+      "name": "Mount Fuji",
+      "image": "https://i.pinimg.com/564x/6f/c8/c5/6fc8c52266cf90fa2e48946d2a557eec.jpg",
+      "description": "Japan’s Mt. Fuji is an active volcano about 100 kilometers southwest of Tokyo. Commonly called “Fuji-san,” it’s the country’s tallest peak, at 3,776 meters. A pilgrimage site for centuries, it’s considered one of Japan’s 3 sacred mountains, and summit hikes remain a popular activity. Its iconic profile is the subject of numerous works of art, notably Edo Period prints by Hokusai and Hiroshige."
+    },
+    {
+      "id": 2,
+      "name": "Itsukushima Shrine",
+      "image": "https://i.pinimg.com/564x/cb/4e/02/cb4e02271c58d90d8134ca86c9d8c8a9.jpg",
+      "description": "Itsukushima Shrine is a Shinto shrine on the island of Itsukushima, best known for its floating torii gate. It is in the city of Hatsukaichi in Hiroshima Prefecture in Japan."
+    },
+    {
+      "id": 3,
+      "name": "Nara Park",
+      "image": "https://i.pinimg.com/564x/79/34/e0/7934e0161db959113b98e3e2e80b3bf7.jpg",
+      "description": "Nara Park is a public park located in the city of Nara, Japan, at the foot of Mount Wakakusa. Established in 1880 it is one of the oldest parks in Japan. Administratively, the park is under the control of Nara Prefecture"
+    },
+    {
+      "id": 4,
+      "name": "Kyoto Imperial Palace",
+      "image": "https://i.pinimg.com/564x/e8/39/e7/e839e7951f7d2512ff877ccff68f989f.jpg",
+      "description": "The Kyoto Imperial Palace is the former ruling palace of the Emperor of Japan. Since the Meiji Restoration in 1869, the Emperors have resided at the Tokyo Imperial Palace, while the preservation of the Kyoto Imperial Palace was ordered in 1877."
+    },
+    {
+      "id": 5,
+      "name": "Sensō-ji",
+      "image": "https://i.pinimg.com/474x/d1/3c/a4/d13ca42c54a9b78a9cc85aa4c569a94c.jpg",
+      "description": "Sensō-ji is an ancient Buddhist temple located in Asakusa, Tokyo, Japan. It is Tokyo's oldest temple, and one of its most significant. Formerly associated with the Tendai sect of Buddhism, it became independent after World War II. "
+    },
+    {
+      "id": 6,
+      "name": "Osaka castle",
+      "image": "https://i.pinimg.com/564x/5f/d1/8d/5fd18d9fb37cb7e91f1e224de01bce41.jpg",
+      "description": "Osaka Castle is a Japanese castle in Chūō-ku, Osaka, Japan. The castle is one of Japan's most famous landmarks and it played a major role in the unification of Japan during the sixteenth century of the Azuchi-Momoyama period."
+    },
+    {
+      "id": 7,
+      "name": "Tokyo Tower",
+      "image": "https://i.pinimg.com/564x/50/fd/0d/50fd0d328d78b22292d93596aed62411.jpg",
+      "description": "The Tokyo Tower is a communications and observation tower in the Shiba-koen district of Minato, Tokyo, Japan. At 332.9 meters, it is the second-tallest structure in Japan. The structure is an Eiffel Tower-inspired lattice tower that is painted white and international orange to comply with air safety regulations."
+    },
+    {
+      "id": 8,
+      "name": "Odaiba",
+      "image": "https://blog.japanwondertravel.com/wp-content/uploads/2020/03/Tokyo-Rainbow-Bridge-sunset-1200x795.jpg",
+      "description": "Accessed via the Rainbow Bridge or the futuristic Yurikamome train, Odaiba is a high-tech entertainment hub on an artificial island in Tokyo Bay. Visitors head to the beach at Seaside Park, enjoy Mt. Fuji views from the Daikanransha Ferris wheel, and interact with robots at the Miraikan science museum. Malls include Aqua City and the Venice-themed VenusFort, and there are sushi bars with views along the waterfront. "
+    },
+    {
+      "id": 9,
+      "name": "Kegon Falls",
+      "image": "https://i.pinimg.com/564x/46/c7/18/46c718444140dc094c2f7768e50fe3ae.jpg",
+      "description": "Kegon Falls is located at Lake Chūzenji in Nikkō National Park near the city of Nikkō, Tochigi Prefecture, Japan. The falls were formed when the Daiya River was rerouted by lava flows."
+    },
+    {
+      "id": 10,
+      "name": "Shirakawa-go",
+      "image": "https://i.pinimg.com/564x/3f/db/95/3fdb957f97f9a8fa0f637de5db31f6cb.jpg",
+      "description": "The Historic Villages of Shirakawa-gō and Gokayama are one of Japan's UNESCO World Heritage Sites. The cultural property consists of three historic mountain villages over an area of 68 hectares in the remote Shogawa river valley, stretching across the border of Gifu and Toyama Prefectures in central Japan."
+    }
+  ],
+  "Foods": [
+    {
+      "id": 1,
+      "name": "Sushi",
+      "image": "https://i.pinimg.com/564x/f6/3e/01/f63e0186862a1f2503aad4a4430e3e0f.jpg",
+      "description": "Sushi is a traditional Japanese dish of prepared vinegared rice, usually with some sugar and salt, accompanied by a variety of ingredients, such as seafood, often raw, and vegetables. Styles of sushi and its presentation vary widely, but the one key ingredient is sushi rice, also referred to as shari, or sumeshi."
+    },
+    {
+      "id": 2,
+      "name": "Unagi",
+      "image": "https://i.pinimg.com/564x/97/1d/09/971d091fcf3f483095c2433544508c98.jpg",
+      "description": "Unagi is the Japanese word for freshwater eel, especially the Japanese eel, Anguilla japonica. Unagi is a common ingredient in Japanese cooking, often as kabayaki. It is not to be confused with saltwater eel, which is known as anago in Japanese. "
+    },
+    {
+      "id": 3,
+      "name": "Soba",
+      "image": "https://i.pinimg.com/474x/71/8d/ab/718dab43e97ba8f14e96e14cb58c14e3.jpg",
+      "description": "Soba is a thin Japanese noodle made from buckwheat. The noodles are served either chilled with a dipping sauce, or hot in a noodle soup. The variety Nagano soba includes wheat flour. In Japan, soba noodles can be found in a variety of settings, from fast food places to expensive specialty restaurants."
+    },
+    {
+      "id": 4,
+      "name": "Onigiri",
+      "image": "https://i.pinimg.com/564x/33/44/21/334421ed9a523ab5edd0b47a6f9308e9.jpg",
+      "description": "Onigiri, also known as omusubi, nigirimeshi, or rice ball, is a Japanese food made from white rice formed into triangular or cylindrical shapes and often wrapped in nori."
+    },
+    {
+      "id": 5,
+      "name": "Yakitori",
+      "image": "https://i.pinimg.com/474x/cb/3b/fd/cb3bfd5d60e8662aa3faca96fd91117f.jpg",
+      "description": "Yakitori is a Japanese type of skewered chicken. Its preparation involves skewering the meat with kushi, a type of skewer typically made of steel, bamboo, or similar materials. Afterwards, they are grilled over a charcoal fire. During or after cooking, the meat is typically seasoned with tare sauce or salt."
+    },
+    {
+      "id": 6,
+      "name": "Sukiyaki",
+      "image": "https://i.pinimg.com/474x/af/c2/64/afc264e11c723625a8c0791993b56fc0.jpg",
+      "description": "Sukiyaki is a Japanese dish that is prepared and served in the nabemono style. It consists of meat which is slowly cooked or simmered at the table, alongside vegetables and other ingredients, in a shallow iron pot in a mixture of soy sauce, sugar, and mirin."
+    },
+    {
+      "id": 7,
+      "name": "Daifuku",
+      "image": "https://i.pinimg.com/564x/0b/62/72/0b62727c8de38bbb092b309c778518f7.jpg",
+      "description": "Daifukumochi, or daifuku, is a wagashi consisting of a small round mochi stuffed with sweet filling, most commonly anko, sweetened red bean paste made from azuki beans. Daifuku is a popular wagashi in Japan and is often served with green tea. Daifuku comes in many varieties."
+    },
+    {
+      "id": 8,
+      "name": "Anmitsu",
+      "image": "https://i.pinimg.com/474x/09/55/a8/0955a8327c9b5b636fc96ac10f926060.jpg",
+      "description": "Anmitsu is a Japanese dessert that dates to the Meiji era. It is made of small cubes of agar jelly, a white translucent jelly made from red algae. The agar is dissolved with water to make the jelly."
+    },
+    {
+      "id": 9,
+      "name": "Dorayaki",
+      "image": "https://i.pinimg.com/474x/31/fc/7e/31fc7e0aae144dc16cd0ef502071ded0.jpg",
+      "description": "Dorayaki is a type of Japanese confection. It consists of two small pancake-like patties made from castella wrapped around a filling of sweet azuki bean paste. The original Dorayaki consisted of only one layer. Its current shape was invented in 1914 by Usagiya in the Ueno district of Tokyo."
+    },
+    {
+      "id": 10,
+      "name": "Japanese CheeseCake",
+      "image": "https://i.pinimg.com/564x/8f/d8/0b/8fd80bcd1c2adfc4d827cc18a93907a2.jpg",
+      "description": "Japanese cheesecake is a variety of cheesecake that is usually lighter in texture and less sweet than North American style cheesecakes. It has a characteristically wobbly, airy texture similar to a soufflé when fresh out of the oven and a chiffon cake like texture when chilled."
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "name": "Thomas Cisneroz"
+    },
+    {
+      "name": "George",
+      "id": 2
+    },
+    {
+      "name": "John",
+      "id": 3
+    },
+    {
+      "name": "Howie",
+      "id": 4
+    },
+    {
+      "name": "Amir",
+      "id": 5
+    },
+    {
+      "name": "Sam D",
+      "id": 6
+    },
+    {
+      "name": "GREG",
+      "id": 7
+    }
+  ]
 }

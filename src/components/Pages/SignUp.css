@@ -1,0 +1,30 @@
+.new-user-form {
+    width: 80%;
+}
+
+.form-container{
+    padding: 1rem;
+    width: stretch;
+    height: auto;
+    opacity: 0.8;
+    justify-items: center;
+}
+
+.input-text {
+    border-radius: 5px;
+    height: 2rem;
+    width: 60%;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 3px;
+    justify-self: center;
+}
+
+.user-form-title{
+    color: #fff;
+    font-size: 50px;
+}
+
+input{
+    display: flex;
+}
