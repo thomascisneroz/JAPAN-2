@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+**Japan - 2022**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I created this project because before 2020 came around with the pandemic I really wanted to go visit Japan
+and with that I wanted to create an app in which would have easy to find cards with information on some foods
+and locations in Japan that I might want to see. 
 
-## Available Scripts
+Thus came about this simple app that was made in React 
 
-In the project directory, you can run:
+An intial home page is where you first land on the app with a Navbar incase you want to just explore the app that way through each of the pages
 
-### `npm start`
+The home page has a video playing in the background of page and a marquee with a fun "LETS GO TO JAPAN" message as a small top banner 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img width="1439" alt="Screen Shot 2022-01-10 at 12 44 39 PM" src="https://user-images.githubusercontent.com/82288444/148813410-dae09dda-a5f1-4a08-9054-ad01a3d18662.png">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+As you scroll down the home page you find interactive cards that if you click on will lead you to either locations or foods you might want to look and read up on 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Locations** 
 
-### `npm run build`
+<img width="1440" alt="Screen Shot 2022-01-10 at 12 47 19 PM" src="https://user-images.githubusercontent.com/82288444/148813926-dd5dba55-453f-426b-9459-9c7047fc4d54.png">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Foods**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img width="1440" alt="Screen Shot 2022-01-10 at 12 47 54 PM" src="https://user-images.githubusercontent.com/82288444/148813983-20b843c5-1432-4a04-97ea-9cb2e18ae93a.png">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+I created a place holder footer at the bottom of the home page to simulate a footer that if you wanted more information on the app and other informations
+at the bottom.
 
-### `npm run eject`
+**Footer**
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<img width="1440" alt="Screen Shot 2022-01-10 at 12 48 25 PM" src="https://user-images.githubusercontent.com/82288444/148814274-ca82c610-50a7-40ad-b872-f77291812616.png">
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Each card leads to the respective pages on the app which have a list of locations and foods lined up for the client to read about 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+examples 
 
-## Learn More
+<img width="1440" alt="Screen Shot 2022-01-10 at 12 52 25 PM" src="https://user-images.githubusercontent.com/82288444/148814904-b9d828f8-4231-4275-bfeb-0e21e468d844.png">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<img width="1440" alt="Screen Shot 2022-01-10 at 12 54 01 PM" src="https://user-images.githubusercontent.com/82288444/148814954-7acb82a5-3250-45ab-9753-d299ae81e96b.png">
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The information is to give ideas about foods you might want to try in Japan or locations you might find interesting and visit. 
